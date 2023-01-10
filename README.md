@@ -6,8 +6,6 @@ I am a full stack developer, and currently I am working with the MERN stack. I d
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<br>
-
 <div align="center">
 
 <a href="https://github.com/ariyanabdullah/">
